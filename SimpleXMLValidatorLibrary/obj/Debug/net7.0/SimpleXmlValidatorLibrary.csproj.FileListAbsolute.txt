@@ -1,0 +1,11 @@
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\bin\Debug\net7.0\SimpleXmlValidatorLibrary.deps.json
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\bin\Debug\net7.0\SimpleXmlValidatorLibrary.dll
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\bin\Debug\net7.0\SimpleXmlValidatorLibrary.pdb
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.AssemblyInfoInputs.cache
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.AssemblyInfo.cs
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.dll
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\obj\Debug\net7.0\refint\SimpleXmlValidatorLibrary.dll
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.pdb
+C:\Users\Hannah Dubusker\Desktop\BoostDraftCodingAssignmentCSharp_HannahDubusker\SimpleXMLValidatorLibrary\obj\Debug\net7.0\ref\SimpleXmlValidatorLibrary.dll
